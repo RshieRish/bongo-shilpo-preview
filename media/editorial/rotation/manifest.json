@@ -1,0 +1,1364 @@
+{
+  "the-sindoor-look": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/the-sindoor-look/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-01.webp",
+        "angle": 0.020833333333333332
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-02.webp",
+        "angle": 0.041666666666666664
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-03.webp",
+        "angle": 0.0625
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-04.webp",
+        "angle": 0.08333333333333333
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-05.webp",
+        "angle": 0.10416666666666667
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-06.webp",
+        "angle": 0.125
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-07.webp",
+        "angle": 0.14583333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-08.webp",
+        "angle": 0.16666666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-09.webp",
+        "angle": 0.1875
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-10.webp",
+        "angle": 0.20833333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-11.webp",
+        "angle": 0.22916666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-12.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-13.webp",
+        "angle": 0.2692307692307692
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-14.webp",
+        "angle": 0.28846153846153844
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-15.webp",
+        "angle": 0.3076923076923077
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-16.webp",
+        "angle": 0.3269230769230769
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-17.webp",
+        "angle": 0.34615384615384615
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-18.webp",
+        "angle": 0.3653846153846154
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-19.webp",
+        "angle": 0.3846153846153846
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-20.webp",
+        "angle": 0.40384615384615385
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-21.webp",
+        "angle": 0.4230769230769231
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-22.webp",
+        "angle": 0.4423076923076923
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-23.webp",
+        "angle": 0.46153846153846156
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-24.webp",
+        "angle": 0.4807692307692308
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-25.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-26.webp",
+        "angle": 0.5208333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-27.webp",
+        "angle": 0.5416666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-28.webp",
+        "angle": 0.5625
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-29.webp",
+        "angle": 0.5833333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-30.webp",
+        "angle": 0.6041666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-31.webp",
+        "angle": 0.625
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-32.webp",
+        "angle": 0.6458333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-33.webp",
+        "angle": 0.6666666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-34.webp",
+        "angle": 0.6875
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-35.webp",
+        "angle": 0.7083333333333334
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-36.webp",
+        "angle": 0.7291666666666666
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-37.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-38.webp",
+        "angle": 0.7692307692307693
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-39.webp",
+        "angle": 0.7884615384615384
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-40.webp",
+        "angle": 0.8076923076923077
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-41.webp",
+        "angle": 0.8269230769230769
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-42.webp",
+        "angle": 0.8461538461538461
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-43.webp",
+        "angle": 0.8653846153846154
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-44.webp",
+        "angle": 0.8846153846153846
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-45.webp",
+        "angle": 0.9038461538461539
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-46.webp",
+        "angle": 0.9230769230769231
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-47.webp",
+        "angle": 0.9423076923076923
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-48.webp",
+        "angle": 0.9615384615384616
+      },
+      {
+        "file": "rotation/the-sindoor-look/frame-49.webp",
+        "angle": 0.9807692307692308
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.43,
+        "y": 0.55,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.52,
+        "y": 0.57,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  },
+  "ivory-in-the-morning": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/ivory-in-the-morning/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-01.webp",
+        "angle": 0.017857142857142856
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-02.webp",
+        "angle": 0.03571428571428571
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-03.webp",
+        "angle": 0.05357142857142857
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-04.webp",
+        "angle": 0.07142857142857142
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-05.webp",
+        "angle": 0.08928571428571429
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-06.webp",
+        "angle": 0.10714285714285714
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-07.webp",
+        "angle": 0.125
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-08.webp",
+        "angle": 0.14285714285714285
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-09.webp",
+        "angle": 0.16071428571428573
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-10.webp",
+        "angle": 0.17857142857142858
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-11.webp",
+        "angle": 0.19642857142857142
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-12.webp",
+        "angle": 0.21428571428571427
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-13.webp",
+        "angle": 0.23214285714285715
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-14.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-15.webp",
+        "angle": 0.2708333333333333
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-16.webp",
+        "angle": 0.2916666666666667
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-17.webp",
+        "angle": 0.3125
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-18.webp",
+        "angle": 0.3333333333333333
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-19.webp",
+        "angle": 0.3541666666666667
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-20.webp",
+        "angle": 0.375
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-21.webp",
+        "angle": 0.39583333333333337
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-22.webp",
+        "angle": 0.41666666666666663
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-23.webp",
+        "angle": 0.4375
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-24.webp",
+        "angle": 0.45833333333333337
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-25.webp",
+        "angle": 0.47916666666666663
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-26.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-27.webp",
+        "angle": 0.5192307692307693
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-28.webp",
+        "angle": 0.5384615384615384
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-29.webp",
+        "angle": 0.5576923076923077
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-30.webp",
+        "angle": 0.5769230769230769
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-31.webp",
+        "angle": 0.5961538461538461
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-32.webp",
+        "angle": 0.6153846153846154
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-33.webp",
+        "angle": 0.6346153846153846
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-34.webp",
+        "angle": 0.6538461538461539
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-35.webp",
+        "angle": 0.6730769230769231
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-36.webp",
+        "angle": 0.6923076923076923
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-37.webp",
+        "angle": 0.7115384615384616
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-38.webp",
+        "angle": 0.7307692307692308
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-39.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-40.webp",
+        "angle": 0.7727272727272727
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-41.webp",
+        "angle": 0.7954545454545454
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-42.webp",
+        "angle": 0.8181818181818181
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-43.webp",
+        "angle": 0.8409090909090909
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-44.webp",
+        "angle": 0.8636363636363636
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-45.webp",
+        "angle": 0.8863636363636364
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-46.webp",
+        "angle": 0.9090909090909091
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-47.webp",
+        "angle": 0.9318181818181819
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-48.webp",
+        "angle": 0.9545454545454546
+      },
+      {
+        "file": "rotation/ivory-in-the-morning/frame-49.webp",
+        "angle": 0.9772727272727273
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.46,
+        "y": 0.57,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.52,
+        "y": 0.52,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  },
+  "forest-after-rain": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/forest-after-rain/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-01.webp",
+        "angle": 0.017857142857142794
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-02.webp",
+        "angle": 0.0357142857142857
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-03.webp",
+        "angle": 0.0535714285714286
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-04.webp",
+        "angle": 0.0714285714285714
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-05.webp",
+        "angle": 0.0892857142857143
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-06.webp",
+        "angle": 0.1071428571428572
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-07.webp",
+        "angle": 0.125
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-08.webp",
+        "angle": 0.1428571428571429
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-09.webp",
+        "angle": 0.1607142857142857
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-10.webp",
+        "angle": 0.1785714285714286
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-11.webp",
+        "angle": 0.1964285714285714
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-12.webp",
+        "angle": 0.2142857142857143
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-13.webp",
+        "angle": 0.2321428571428571
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-14.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-15.webp",
+        "angle": 0.27083333333333337
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-16.webp",
+        "angle": 0.29166666666666663
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-17.webp",
+        "angle": 0.3125
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-18.webp",
+        "angle": 0.33333333333333337
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-19.webp",
+        "angle": 0.35416666666666663
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-20.webp",
+        "angle": 0.375
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-21.webp",
+        "angle": 0.39583333333333337
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-22.webp",
+        "angle": 0.41666666666666663
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-23.webp",
+        "angle": 0.4375
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-24.webp",
+        "angle": 0.45833333333333337
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-25.webp",
+        "angle": 0.47916666666666663
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-26.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-27.webp",
+        "angle": 0.5192307692307692
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-28.webp",
+        "angle": 0.5384615384615384
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-29.webp",
+        "angle": 0.5576923076923077
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-30.webp",
+        "angle": 0.5769230769230769
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-31.webp",
+        "angle": 0.5961538461538461
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-32.webp",
+        "angle": 0.6153846153846154
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-33.webp",
+        "angle": 0.6346153846153846
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-34.webp",
+        "angle": 0.6538461538461539
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-35.webp",
+        "angle": 0.6730769230769231
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-36.webp",
+        "angle": 0.6923076923076923
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-37.webp",
+        "angle": 0.7115384615384616
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-38.webp",
+        "angle": 0.7307692307692308
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-39.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-40.webp",
+        "angle": 0.7727272727272727
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-41.webp",
+        "angle": 0.7954545454545454
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-42.webp",
+        "angle": 0.8181818181818181
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-43.webp",
+        "angle": 0.8409090909090909
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-44.webp",
+        "angle": 0.8636363636363636
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-45.webp",
+        "angle": 0.8863636363636364
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-46.webp",
+        "angle": 0.9090909090909091
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-47.webp",
+        "angle": 0.9318181818181819
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-48.webp",
+        "angle": 0.9545454545454546
+      },
+      {
+        "file": "rotation/forest-after-rain/frame-49.webp",
+        "angle": 0.9772727272727273
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.47,
+        "y": 0.55,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.52,
+        "y": 0.55,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  },
+  "indigo-hour": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/indigo-hour/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/indigo-hour/frame-01.webp",
+        "angle": 0.019230769230769232
+      },
+      {
+        "file": "rotation/indigo-hour/frame-02.webp",
+        "angle": 0.038461538461538464
+      },
+      {
+        "file": "rotation/indigo-hour/frame-03.webp",
+        "angle": 0.057692307692307696
+      },
+      {
+        "file": "rotation/indigo-hour/frame-04.webp",
+        "angle": 0.07692307692307693
+      },
+      {
+        "file": "rotation/indigo-hour/frame-05.webp",
+        "angle": 0.09615384615384616
+      },
+      {
+        "file": "rotation/indigo-hour/frame-06.webp",
+        "angle": 0.11538461538461539
+      },
+      {
+        "file": "rotation/indigo-hour/frame-07.webp",
+        "angle": 0.1346153846153846
+      },
+      {
+        "file": "rotation/indigo-hour/frame-08.webp",
+        "angle": 0.15384615384615385
+      },
+      {
+        "file": "rotation/indigo-hour/frame-09.webp",
+        "angle": 0.17307692307692307
+      },
+      {
+        "file": "rotation/indigo-hour/frame-10.webp",
+        "angle": 0.19230769230769232
+      },
+      {
+        "file": "rotation/indigo-hour/frame-11.webp",
+        "angle": 0.21153846153846154
+      },
+      {
+        "file": "rotation/indigo-hour/frame-12.webp",
+        "angle": 0.23076923076923078
+      },
+      {
+        "file": "rotation/indigo-hour/frame-13.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/indigo-hour/frame-14.webp",
+        "angle": 0.2708333333333333
+      },
+      {
+        "file": "rotation/indigo-hour/frame-15.webp",
+        "angle": 0.2916666666666667
+      },
+      {
+        "file": "rotation/indigo-hour/frame-16.webp",
+        "angle": 0.3125
+      },
+      {
+        "file": "rotation/indigo-hour/frame-17.webp",
+        "angle": 0.3333333333333333
+      },
+      {
+        "file": "rotation/indigo-hour/frame-18.webp",
+        "angle": 0.3541666666666667
+      },
+      {
+        "file": "rotation/indigo-hour/frame-19.webp",
+        "angle": 0.375
+      },
+      {
+        "file": "rotation/indigo-hour/frame-20.webp",
+        "angle": 0.39583333333333337
+      },
+      {
+        "file": "rotation/indigo-hour/frame-21.webp",
+        "angle": 0.41666666666666663
+      },
+      {
+        "file": "rotation/indigo-hour/frame-22.webp",
+        "angle": 0.4375
+      },
+      {
+        "file": "rotation/indigo-hour/frame-23.webp",
+        "angle": 0.45833333333333337
+      },
+      {
+        "file": "rotation/indigo-hour/frame-24.webp",
+        "angle": 0.47916666666666663
+      },
+      {
+        "file": "rotation/indigo-hour/frame-25.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/indigo-hour/frame-26.webp",
+        "angle": 0.5192307692307693
+      },
+      {
+        "file": "rotation/indigo-hour/frame-27.webp",
+        "angle": 0.5384615384615384
+      },
+      {
+        "file": "rotation/indigo-hour/frame-28.webp",
+        "angle": 0.5576923076923077
+      },
+      {
+        "file": "rotation/indigo-hour/frame-29.webp",
+        "angle": 0.5769230769230769
+      },
+      {
+        "file": "rotation/indigo-hour/frame-30.webp",
+        "angle": 0.5961538461538461
+      },
+      {
+        "file": "rotation/indigo-hour/frame-31.webp",
+        "angle": 0.6153846153846154
+      },
+      {
+        "file": "rotation/indigo-hour/frame-32.webp",
+        "angle": 0.6346153846153846
+      },
+      {
+        "file": "rotation/indigo-hour/frame-33.webp",
+        "angle": 0.6538461538461539
+      },
+      {
+        "file": "rotation/indigo-hour/frame-34.webp",
+        "angle": 0.6730769230769231
+      },
+      {
+        "file": "rotation/indigo-hour/frame-35.webp",
+        "angle": 0.6923076923076923
+      },
+      {
+        "file": "rotation/indigo-hour/frame-36.webp",
+        "angle": 0.7115384615384616
+      },
+      {
+        "file": "rotation/indigo-hour/frame-37.webp",
+        "angle": 0.7307692307692308
+      },
+      {
+        "file": "rotation/indigo-hour/frame-38.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/indigo-hour/frame-39.webp",
+        "angle": 0.7708333333333334
+      },
+      {
+        "file": "rotation/indigo-hour/frame-40.webp",
+        "angle": 0.7916666666666666
+      },
+      {
+        "file": "rotation/indigo-hour/frame-41.webp",
+        "angle": 0.8125
+      },
+      {
+        "file": "rotation/indigo-hour/frame-42.webp",
+        "angle": 0.8333333333333334
+      },
+      {
+        "file": "rotation/indigo-hour/frame-43.webp",
+        "angle": 0.8541666666666666
+      },
+      {
+        "file": "rotation/indigo-hour/frame-44.webp",
+        "angle": 0.875
+      },
+      {
+        "file": "rotation/indigo-hour/frame-45.webp",
+        "angle": 0.8958333333333334
+      },
+      {
+        "file": "rotation/indigo-hour/frame-46.webp",
+        "angle": 0.9166666666666666
+      },
+      {
+        "file": "rotation/indigo-hour/frame-47.webp",
+        "angle": 0.9375
+      },
+      {
+        "file": "rotation/indigo-hour/frame-48.webp",
+        "angle": 0.9583333333333334
+      },
+      {
+        "file": "rotation/indigo-hour/frame-49.webp",
+        "angle": 0.9791666666666666
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.48,
+        "y": 0.55,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.48,
+        "y": 0.58,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  },
+  "a-marigold-afternoon": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/a-marigold-afternoon/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-01.webp",
+        "angle": 0.019230769230769232
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-02.webp",
+        "angle": 0.038461538461538464
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-03.webp",
+        "angle": 0.057692307692307696
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-04.webp",
+        "angle": 0.07692307692307693
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-05.webp",
+        "angle": 0.09615384615384616
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-06.webp",
+        "angle": 0.11538461538461539
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-07.webp",
+        "angle": 0.1346153846153846
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-08.webp",
+        "angle": 0.15384615384615385
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-09.webp",
+        "angle": 0.17307692307692307
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-10.webp",
+        "angle": 0.19230769230769232
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-11.webp",
+        "angle": 0.21153846153846154
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-12.webp",
+        "angle": 0.23076923076923078
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-13.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-14.webp",
+        "angle": 0.2708333333333333
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-15.webp",
+        "angle": 0.2916666666666667
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-16.webp",
+        "angle": 0.3125
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-17.webp",
+        "angle": 0.3333333333333333
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-18.webp",
+        "angle": 0.3541666666666667
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-19.webp",
+        "angle": 0.375
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-20.webp",
+        "angle": 0.39583333333333337
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-21.webp",
+        "angle": 0.41666666666666663
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-22.webp",
+        "angle": 0.4375
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-23.webp",
+        "angle": 0.45833333333333337
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-24.webp",
+        "angle": 0.47916666666666663
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-25.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-26.webp",
+        "angle": 0.5192307692307693
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-27.webp",
+        "angle": 0.5384615384615384
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-28.webp",
+        "angle": 0.5576923076923077
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-29.webp",
+        "angle": 0.5769230769230769
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-30.webp",
+        "angle": 0.5961538461538461
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-31.webp",
+        "angle": 0.6153846153846154
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-32.webp",
+        "angle": 0.6346153846153846
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-33.webp",
+        "angle": 0.6538461538461539
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-34.webp",
+        "angle": 0.6730769230769231
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-35.webp",
+        "angle": 0.6923076923076923
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-36.webp",
+        "angle": 0.7115384615384616
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-37.webp",
+        "angle": 0.7307692307692308
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-38.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-39.webp",
+        "angle": 0.7708333333333334
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-40.webp",
+        "angle": 0.7916666666666666
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-41.webp",
+        "angle": 0.8125
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-42.webp",
+        "angle": 0.8333333333333334
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-43.webp",
+        "angle": 0.8541666666666666
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-44.webp",
+        "angle": 0.875
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-45.webp",
+        "angle": 0.8958333333333334
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-46.webp",
+        "angle": 0.9166666666666666
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-47.webp",
+        "angle": 0.9375
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-48.webp",
+        "angle": 0.9583333333333334
+      },
+      {
+        "file": "rotation/a-marigold-afternoon/frame-49.webp",
+        "angle": 0.9791666666666666
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.49,
+        "y": 0.58,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.5,
+        "y": 0.56,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  },
+  "mulberry-at-dusk": {
+    "reviewed": true,
+    "width": 688,
+    "height": 918,
+    "front": 0,
+    "back": 0.5,
+    "frames": [
+      {
+        "file": "rotation/mulberry-at-dusk/frame-00.webp",
+        "angle": 0
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-01.webp",
+        "angle": 0.02083333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-02.webp",
+        "angle": 0.04166666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-03.webp",
+        "angle": 0.0625
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-04.webp",
+        "angle": 0.08333333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-05.webp",
+        "angle": 0.10416666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-06.webp",
+        "angle": 0.125
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-07.webp",
+        "angle": 0.14583333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-08.webp",
+        "angle": 0.16666666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-09.webp",
+        "angle": 0.1875
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-10.webp",
+        "angle": 0.20833333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-11.webp",
+        "angle": 0.22916666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-12.webp",
+        "angle": 0.25
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-13.webp",
+        "angle": 0.27083333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-14.webp",
+        "angle": 0.29166666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-15.webp",
+        "angle": 0.3125
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-16.webp",
+        "angle": 0.33333333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-17.webp",
+        "angle": 0.35416666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-18.webp",
+        "angle": 0.375
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-19.webp",
+        "angle": 0.39583333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-20.webp",
+        "angle": 0.41666666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-21.webp",
+        "angle": 0.4375
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-22.webp",
+        "angle": 0.45833333333333337
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-23.webp",
+        "angle": 0.47916666666666663
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-24.webp",
+        "angle": 0.5
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-25.webp",
+        "angle": 0.5192307692307692
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-26.webp",
+        "angle": 0.5384615384615384
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-27.webp",
+        "angle": 0.5576923076923077
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-28.webp",
+        "angle": 0.5769230769230769
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-29.webp",
+        "angle": 0.5961538461538461
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-30.webp",
+        "angle": 0.6153846153846154
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-31.webp",
+        "angle": 0.6346153846153846
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-32.webp",
+        "angle": 0.6538461538461539
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-33.webp",
+        "angle": 0.6730769230769231
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-34.webp",
+        "angle": 0.6923076923076923
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-35.webp",
+        "angle": 0.7115384615384616
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-36.webp",
+        "angle": 0.7307692307692308
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-37.webp",
+        "angle": 0.75
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-38.webp",
+        "angle": 0.7692307692307692
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-39.webp",
+        "angle": 0.7884615384615384
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-40.webp",
+        "angle": 0.8076923076923077
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-41.webp",
+        "angle": 0.8269230769230769
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-42.webp",
+        "angle": 0.8461538461538461
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-43.webp",
+        "angle": 0.8653846153846154
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-44.webp",
+        "angle": 0.8846153846153846
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-45.webp",
+        "angle": 0.9038461538461539
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-46.webp",
+        "angle": 0.9230769230769231
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-47.webp",
+        "angle": 0.9423076923076923
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-48.webp",
+        "angle": 0.9615384615384616
+      },
+      {
+        "file": "rotation/mulberry-at-dusk/frame-49.webp",
+        "angle": 0.9807692307692307
+      }
+    ],
+    "details": [
+      {
+        "label": "Front drape",
+        "description": "The pleats and border are visible from the front of this demonstration outfit.",
+        "x": 0.46,
+        "y": 0.58,
+        "angle": 0,
+        "window": 0.035
+      },
+      {
+        "label": "Back drape",
+        "description": "See how the cloth falls at the back of this demonstration outfit.",
+        "x": 0.47,
+        "y": 0.54,
+        "angle": 0.5,
+        "window": 0.041
+      }
+    ]
+  }
+}

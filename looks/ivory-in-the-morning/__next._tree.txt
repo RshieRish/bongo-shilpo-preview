@@ -1,0 +1,6 @@
+:HL["/bongo-shilpo-preview/_next/static/chunks/0fxj-lnisdefd.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"ivory-in-the-morning","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"looks","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(store)","h":32,"c":"$Q2"}]]
+0:{"b":"BvHsSZ-vc_hXjuf_bH-Oo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

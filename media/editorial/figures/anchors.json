@@ -1,0 +1,44 @@
+{
+  "a-marigold-afternoon": {
+    "width": 1280,
+    "height": 1707,
+    "footX": 0.5004,
+    "footY": 0.9889,
+    "top": 0.024
+  },
+  "forest-after-rain": {
+    "width": 1440,
+    "height": 1920,
+    "footX": 0.477,
+    "footY": 0.9656,
+    "top": 0.0354
+  },
+  "indigo-hour": {
+    "width": 1440,
+    "height": 1920,
+    "footX": 0.4867,
+    "footY": 0.9911,
+    "top": 0.024
+  },
+  "ivory-in-the-morning": {
+    "width": 1440,
+    "height": 1920,
+    "footX": 0.5298,
+    "footY": 0.9656,
+    "top": 0.0339
+  },
+  "mulberry-at-dusk": {
+    "width": 1280,
+    "height": 1707,
+    "footX": 0.4755,
+    "footY": 0.9836,
+    "top": 0.024
+  },
+  "the-sindoor-look": {
+    "width": 1440,
+    "height": 1920,
+    "footX": 0.4954,
+    "footY": 0.9818,
+    "top": 0.0187
+  }
+}

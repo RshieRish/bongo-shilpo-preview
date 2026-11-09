@@ -1,0 +1,43 @@
+{
+  "the-sindoor-look": {
+    "modelKey": "bongo-sindoor-studio-pose-v1",
+    "reviewed": true,
+    "figure": "styling/the-sindoor-look.webp",
+    "garment": "styling/the-sindoor-look-garment.webp",
+    "footX": 0.485,
+    "footY": 0.964,
+    "sameLookModel": true
+  },
+  "ivory-in-the-morning": {
+    "modelKey": "bongo-sindoor-studio-pose-v1",
+    "reviewed": true,
+    "figure": "styling/ivory-in-the-morning.webp",
+    "garment": "styling/ivory-in-the-morning-garment.webp",
+    "footX": 0.485,
+    "footY": 0.964
+  },
+  "forest-after-rain": {
+    "modelKey": "bongo-sindoor-studio-pose-v1",
+    "reviewed": true,
+    "figure": "styling/forest-after-rain.webp",
+    "garment": "styling/forest-after-rain-garment.webp",
+    "footX": 0.485,
+    "footY": 0.964
+  },
+  "indigo-hour": {
+    "modelKey": "bongo-sindoor-studio-pose-v1",
+    "reviewed": true,
+    "figure": "styling/indigo-hour.webp",
+    "garment": "styling/indigo-hour-garment.webp",
+    "footX": 0.485,
+    "footY": 0.964
+  },
+  "a-marigold-afternoon": {
+    "modelKey": "bongo-sindoor-studio-pose-v1",
+    "reviewed": true,
+    "figure": "styling/a-marigold-afternoon.webp",
+    "garment": "styling/a-marigold-afternoon-garment.webp",
+    "footX": 0.485,
+    "footY": 0.964
+  }
+}

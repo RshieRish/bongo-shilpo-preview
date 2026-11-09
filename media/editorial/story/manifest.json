@@ -1,0 +1,42 @@
+{
+  "reviewed": true,
+  "film": "story/actor.mp4",
+  "poster": "story/actor-poster.webp",
+  "width": 630,
+  "height": 1120,
+  "grabMs": 1666,
+  "pullMs": 1958,
+  "panel": {
+    "left": 0.209,
+    "top": 0.348,
+    "width": 0.724,
+    "height": 0.289,
+    "pullX": -0.002,
+    "pullY": 0.101,
+    "contactX": 0.216,
+    "contactY": 0.358,
+    "contactEndMs": 3375,
+    "track": [
+      { "ms": 0, "x": 0, "y": 0 },
+      { "ms": 1917, "x": 0, "y": 0 },
+      { "ms": 1958, "x": 0, "y": 0.003 },
+      { "ms": 2000, "x": 0, "y": 0.015 },
+      { "ms": 2125, "x": -0.001, "y": 0.031 },
+      { "ms": 2250, "x": -0.002, "y": 0.051 },
+      { "ms": 2416, "x": -0.002, "y": 0.079 },
+      { "ms": 2541, "x": -0.002, "y": 0.091 },
+      { "ms": 2666, "x": -0.002, "y": 0.099 },
+      { "ms": 4000, "x": -0.002, "y": 0.101 }
+    ]
+  },
+  "artwork": {
+    "mogra-jhumka-earrings": "story/mogra-jhumka-earrings.webp",
+    "dewdrop-necklace": "story/dewdrop-necklace.webp",
+    "filigree-hinged-bangle": "story/filigree-hinged-bangle.webp"
+  },
+  "worn": {
+    "mogra-jhumka-earrings": "story/worn/mogra-jhumka-earrings.webp",
+    "dewdrop-necklace": "story/worn/dewdrop-necklace.webp",
+    "filigree-hinged-bangle": "story/worn/filigree-hinged-bangle.webp"
+  }
+}
